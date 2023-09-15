@@ -20,6 +20,10 @@ content_blocks:
     button:
       text: Start sending spam!
       link: /signup/
+  - _bookshop_name: home/video
+    image: /images/video/video-thum.jpg
+    image_alt: Thumbnail for video
+    video_url: https://vimeo.com/45830194
   - _bookshop_name: global/counter
     title: Scale your
     title_suffix: Business
